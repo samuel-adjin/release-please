@@ -16,5 +16,6 @@ jobs:
        - uses: google-github-actions/release-please-action@v3
          with:
           manifest-file: .release-please-manifest.json
+          config-file: release-please-config.json
           release-type: node
        - run: echo "A release was created..."
