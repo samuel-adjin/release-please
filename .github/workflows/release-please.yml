@@ -18,4 +18,4 @@ jobs:
           manifest-file: .release-please-manifest.json
           config-file: release-please-config.json
           release-type: node
-       - run: echo "A release was created..."
+       - run: echo "A release was created hh..."
