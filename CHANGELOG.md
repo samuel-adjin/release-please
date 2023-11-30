@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/samuel-adjin/release-please/compare/v1.0.0...v1.1.0) (2023-11-30)
+
+
+### Features
+
+* version specified ([f6bf444](https://github.com/samuel-adjin/release-please/commit/f6bf44447c838d805375ece26ca2a4cbe8febc3d))
+
 ## 1.0.0 (2023-11-30)
 
 
