@@ -18,4 +18,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN}}
           manifest-file: .release-please-manifest.json
           release-type: node
-       - run: echo "A release was created."
+       - run: echo "A release was created..."
